@@ -4,7 +4,7 @@
 ## Description
 it's simple stealth game. All you have to do is move to ball other player's goal.
 
-**Features**
+## Features
 
 Chatting system
 
